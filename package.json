@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-simple-backend01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gftf2011/nodejs-simple-backend01.git",
+  "author": "Gabriel Ferrari Tarallo Ferraz <gftf2011@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
