@@ -11,9 +11,9 @@
 
 2.  Instale o YARN em [https://classic.yarnpkg.com/en/docs/install/](https://classic.yarnpkg.com/en/docs/install/)
 
-3.  Clone o projeto em uma pasta no deu PC :computer:
+3.  Clone o projeto em uma pasta no seu PC :computer:
 
-4.  Abra o projeto em um editor de texto e rode o comando 'yarn init' para baixar as depêndencias
+4.  Abra o projeto em um editor de texto e rode o comando 'yarn' para baixar as depêndencias
 
 5.  Faça o download do Postman em (https://www.getpostman.com/downloads/)[https://www.getpostman.com/downloads/]
 
