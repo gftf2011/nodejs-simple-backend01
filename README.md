@@ -9,6 +9,8 @@
   
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/gftf2011/nodejs-simple-backend01">
 
+  <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/64440c303fa24e9c93e263dab133ae68">
+
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/gftf2011/nodejs-simple-backend01">
 
   <img alt="Github stars" src="https://img.shields.io/github/stars/gftf2011/nodejs-simple-backend01">
@@ -24,7 +26,7 @@
 
 ### :ferris_wheel: Para rodar a Aplicação
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/64440c303fa24e9c93e263dab133ae68)](https://app.codacy.com/manual/gftf2011/nodejs-simple-backend01?utm_source=github.com&utm_medium=referral&utm_content=gftf2011/nodejs-simple-backend01&utm_campaign=Badge_Grade_Dashboard)
+https://app.codacy.com/manual/gftf2011/nodejs-simple-backend01?utm_source=github.com&utm_medium=referral&utm_content=gftf2011/nodejs-simple-backend01&utm_campaign=Badge_Grade_Dashboard)
 
   
 1.  Instale o node.js em [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
