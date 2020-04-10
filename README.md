@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img alt="Imagem da Logo do Framework node.js" src="https://shippo-static.s3.amazonaws.com/img/programming/nodejs.svg" height="200" />
+  <img alt="Imagem da Logo do Framework node.js" src="https://www.pinclipart.com/picdir/big/102-1024697_related-wallpapers-node-js-logo-png-clipart.png" height="40" /> REST API | version: 1
 </h1>
-<h2 align="center">Node.JS simple backend project | version: 1</h2>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gftf2011/nodejs-simple-backend01">
   
