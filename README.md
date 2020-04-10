@@ -2,6 +2,23 @@
   <img alt="Imagem da Logo do Framework node.js" src="https://shippo-static.s3.amazonaws.com/img/programming/nodejs.svg" height="200" />
 </h1>
 <h2 align="center">Node.JS simple backend project | version: 1</h2>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gftf2011/nodejs-simple-backend01">
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gftf2011/nodejs-simple-backend01">
+  
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/gftf2011/nodejs-simple-backend01">
+
+  <img alt="GitHub forks" src="https://img.shields.io/github/forks/gftf2011/nodejs-simple-backend01">
+
+  <img alt="Github stars" src="https://img.shields.io/github/stars/gftf2011/nodejs-simple-backend01">
+
+  <img alt="License" src="https://img.shields.io/github/license/gftf2011/nodejs-simple-backend01">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gftf2011/nodejs-simple-backend01">
+</p>
+
+----
 
 <h3 align="center">Este é um simples projeto para testar rotas de backend criadas com Node.JS</h3>
 
