@@ -10,6 +10,8 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/gftf2011/nodejs-simple-backend01">
 
   <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/64440c303fa24e9c93e263dab133ae68">
+  
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gftf2011/nodejs-simple-backend01">
 
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/gftf2011/nodejs-simple-backend01">
 
