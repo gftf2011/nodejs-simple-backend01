@@ -6,6 +6,9 @@
 <h3 align="center">Este é um simples projeto para testar rotas de backend criadas com Node.JS</h3>
 
 ### :ferris_wheel: Para rodar a Aplicação
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/64440c303fa24e9c93e263dab133ae68)](https://app.codacy.com/manual/gftf2011/nodejs-simple-backend01?utm_source=github.com&utm_medium=referral&utm_content=gftf2011/nodejs-simple-backend01&utm_campaign=Badge_Grade_Dashboard)
+
   
 1.  Instale o node.js em [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
