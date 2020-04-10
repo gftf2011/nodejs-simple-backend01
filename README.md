@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Imagem da Logo do Framework node.js" src="https://www.pinclipart.com/picdir/big/102-1024697_related-wallpapers-node-js-logo-png-clipart.png" height="40" /> REST API | version: 1
+  <img alt="Imagem da Logo do Framework node.js" src="https://www.pinclipart.com/picdir/big/102-1024697_related-wallpapers-node-js-logo-png-clipart.png" height="120" /><br><br> REST API | version: 1
 </h1>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gftf2011/nodejs-simple-backend01">
@@ -26,9 +26,6 @@
 <h3 align="center">Este é um simples projeto para testar rotas de backend criadas com Node.JS</h3>
 
 ### :ferris_wheel: Para rodar a Aplicação
-
-https://app.codacy.com/manual/gftf2011/nodejs-simple-backend01?utm_source=github.com&utm_medium=referral&utm_content=gftf2011/nodejs-simple-backend01&utm_campaign=Badge_Grade_Dashboard)
-
   
 1.  Instale o node.js em [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
