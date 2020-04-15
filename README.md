@@ -35,7 +35,7 @@
 
 4.  Abra o projeto em um editor de texto e rode o comando 'yarn' para baixar as depêndencias
 
-5.  Faça o download do Postman em (https://www.getpostman.com/downloads/)[https://www.getpostman.com/downloads/]
+5.  Faça o download do Postman em [https://www.getpostman.com/downloads/](https://www.getpostman.com/downloads/)
 
 6.  Utilize o comando 'yarn dev' para subir :rocket: a aplicação
 
